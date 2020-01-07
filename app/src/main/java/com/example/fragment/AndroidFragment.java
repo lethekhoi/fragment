@@ -13,6 +13,7 @@ import android.view.ViewGroup;
 /**
  * A simple {@link Fragment} subclass.
  */
+//fragment dung custom giao dien
 public class AndroidFragment extends Fragment {
 
 

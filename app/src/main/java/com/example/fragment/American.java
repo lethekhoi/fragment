@@ -1,8 +1,8 @@
 package com.example.fragment;
 
 public class American extends Person {
-    @Override
-    public String getLanguage() {
+
+    public String getLanguageEnglish() {
         return "English";
     }
 }
